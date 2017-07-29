@@ -1,9 +1,10 @@
 .projects {
 	.project {
-		width: 33.333%;
+		width: 33.333% !important;
 		float: left;
 		background-size: cover;
 		min-height: 400px;
+		max-height: 400px;
 		background-position: center center;
 		position: relative;
 		font-weight: 300;
