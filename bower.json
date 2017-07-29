@@ -20,6 +20,7 @@
     "bootstrap": "4",
     "requirejs": "^2.3.2",
     "kiskabricks_wedgecss": "^1.0.0",
-    "font-awesome": "^4.7.0"
+    "font-awesome": "^4.7.0",
+    "spritespin": "3.4.3"
   }
 }
