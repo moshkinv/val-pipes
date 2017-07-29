@@ -2,9 +2,9 @@
 	name: 'Valentin Moshkin',
 	specialty: 'sculptor',
 	$main_image_type: 'image',
-	main_image: 'https://pp.userapi.com/c10830/u30282844/143506811/z_2483aaf1.jpg',
+	main_image: 'https://res.cloudinary.com/mshkncloud/image/upload/v1/val_face.jpg',
 	$background_type: 'textarea',
-	background: 'I am a professional software developer with passion for deep learning. After finishing my computer science masters, I worked at Tim Dynamics at a autonomous submarine project. The amazing complexities of developing highly sofisticated diving model was astonishing. Sadly, after the submarine got stuck nearly 2 kilometers under the see surface, our funding was stopped. I became a freelance deep learning specialist and now enjoy diversity of projects ranging from medical research to video game AI.',
+	background: 'I am a professional sculptor with passion for deep sculpting. After finishing my computer science masters, I worked at Tim Dynamics at a autonomous submarine project. The amazing complexities of developing highly sofisticated diving model was astonishing. Sadly, after the submarine got stuck nearly 2 kilometers under the see surface, our funding was stopped. I became a freelance deep learning specialist and now enjoy diversity of projects ranging from medical research to video game AI.',
 	$projects_min: 1,
 	projects: [
 		{
