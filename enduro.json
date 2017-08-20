@@ -4,5 +4,9 @@
 	"s3": {
 		"bucket": "enduro.mirror",
 		"region": "eu-west-1"
-	}
+	},
+	"cultures": [
+		"ru",
+		"en"
+	]
 }

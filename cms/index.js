@@ -1,11 +1,14 @@
 {
-	name: 'Valentin Moshkin',
-	specialty: 'sculptor',
+	name: 'Валентин Мошкин',
+	specialty: 'скульптор',
 	$main_image_type: 'image',
 	main_image: 'https://res.cloudinary.com/mshkncloud/image/upload/v1/val_face.jpg',
 	$background_type: 'textarea',
-	background: 'I am a professional sculptor with passion for deep sculpting. After finishing my computer science masters, I worked at Tim Dynamics at a autonomous submarine project. The amazing complexities of developing highly sofisticated diving model was astonishing. Sadly, after the submarine got stuck nearly 2 kilometers under the see surface, our funding was stopped. I became a freelance deep learning specialist and now enjoy diversity of projects ranging from medical research to video game AI.',
+	background: 'Значимость этих проблем настолько очевидна, что рамки и место обучения кадров обеспечивает широкому кругу (специалистов) участие в формировании существенных финансовых и административных условий. С другой стороны консультация с широким активом позволяет выполнять важные задания по разработке соответствующий условий активизации. Не следует, однако забывать, что дальнейшее развитие различных форм деятельности требуют от нас анализа позиций, занимаемых участниками в отношении поставленных задач. Товарищи! постоянное информационно-пропагандистское обеспечение нашей деятельности позволяет выполнять важные задания по разработке соответствующий условий активизации. Значимость этих проблем настолько очевидна, что рамки и место обучения кадров требуют определения и уточнения форм развития.',
 	$projects_min: 1,
+	lang_icon: 'http://icons.iconarchive.com/icons/icons-land/vista-flags/256/English-Language-Flag-1-icon.png',
+	lang_url: '/en',
+	contact_me: 'Связаться',
 	projects: [
 		{
 			id: 'pipe1',
@@ -50,31 +53,31 @@
 	social: [
 		{
 			$icon_type: 'fa',
-			icon: 'github',
-			text: 'Check out my code at github',
-			link: 'https://github.com/Gottwik/Enduro'
+			icon: 'facebook',
+			text: 'Находите меня на фейсбуке',
+			link: 'https://www.facebook.com/profile.php?id=100011978345562&fref=ts'
 		},
 		{
 			$icon_type: 'fa',
-			icon: 'linkedin',
-			text: 'View my profile at LinkedIn',
+			icon: 'telegram',
+			text: 'Пишите напрямую в телеграм',
 			link: 'https://www.linkedin.com/'
 		},
 		{
 			$icon_type: 'fa',
-			icon: 'stack-overflow',
-			text: 'I am also active on stackoverflow',
-			link: 'http://stackoverflow.com/cv/martingottweis'
+			icon: 'vk',
+			text: 'Также я есть во Вконтакте',
+			link: 'https://vk.com/id8318907'
 		}
 	],
 	$hobby_background_type: 'image',
-	hobby_background: 'https://s3-eu-west-1.amazonaws.com/enduro.mirror/direct_uploads/1485880478_pexels-photo-92323.jpeg',
-	hobby_title: 'Book enthusiast',
-	hobby_subtitle: 'Books are the old-school internet',
-	cta_tagline: 'Need a deep learning software developer?',
-	cta_text: 'I am actively looking for new challenges',
+	hobby_background: 'https://image.prntscr.com/image/1eHTqRhcRtG9SecvlVj3-w.png',
+	hobby_title: 'Мои планы',
+	hobby_subtitle: 'на II половину 2017 – I половину 2018',
+	cta_tagline: 'Есть что спросить или предложить?',
+	cta_text: 'Я всегда открыт к новым возможностям',
 	contact_email: 'contact@endurojs.com',
-	footer_text: '2017 @enduro.js mirror theme',
+	footer_text: '2017 Все права защищены.',
 	$footer_background_color_type: 'colorpicker',
 	footer_background_color: '#7e0343',
 	page_title: 'Mirror - enduro.js theme',
@@ -90,6 +93,37 @@
 		text_color: '#2b2928',
 		$accent_color_size: 'inline',
 		$accent_color_type: 'colorpicker',
-		accent_color: '#fafdff',
-	}
+		accent_color: '#fafdff'
+	},
+	$name_en: 'Valentin Moshkin',
+	$specialty_en: 'sculptor',
+	$background_en: 'I am a professional sculptor with passion for deep sculpting. After finishing my computer science masters, I worked at Tim Dynamics at a autonomous submarine project. The amazing complexities of developing highly sofisticated diving model was astonishing. Sadly, after the submarine got stuck nearly 2 kilometers under the see surface, our funding was stopped. I became a freelance deep learning specialist and now enjoy diversity of projects ranging from medical research to video game AI.',
+	$hobby_title_en: 'My plans',
+	$hobby_subtitle_en: 'on II half of 2017 – I half of 2018',
+	$cta_tagline_en: 'Any questions or offers?',
+	$cta_text_en: 'I always open to new opportunities',
+	$footer_text_en: '2017 All rights reserved.',
+	$lang_icon_en: 'http://icons.iconarchive.com/icons/custom-icon-design/flat-europe-flag/256/Russia-icon.png',
+	$lang_url_en: '/ru',
+	$contact_me_en: 'Contact me',
+	$social_en: [
+		{
+			$icon_type: 'fa',
+			icon: 'facebook',
+			text: 'Find me on Facebook',
+			link: 'https://www.facebook.com/profile.php?id=100011978345562&fref=ts'
+		},
+		{
+			$icon_type: 'fa',
+			icon: 'telegram',
+			text: 'Write me directly in Telegram',
+			link: 'https://www.linkedin.com/'
+		},
+		{
+			$icon_type: 'fa',
+			icon: 'vk',
+			text: 'I am also active on VK',
+			link: 'https://vk.com/id8318907'
+		}
+	],
 }

@@ -1,11 +1,9 @@
 {{#> body}}
 
-		{{#if display_edit_stamp}}
-			<a class="enduro_stamp" href="/admin">
-				<div>Edit this page</div>
-				<div>{{>enduro_e}}</div>
+
+			<a class="change-lang" href={{lang_url}}>
+				<img style="width:50px; height:40px" src={{lang_icon}}>
 			</a>
-		{{/if}}
 
 		<div class="panel screen" style="background-image: url('{{main_image}}')">
 			<div class="veil"></div>
@@ -50,7 +48,7 @@
 		<div class="panel socials color_3">
 			<div class="panel_body">
 				{{#each social}}
-					<a class="social" href="{{link}}">
+					<a class="social" href="{{link}}" target="_blank">
 						<div class="social_icon">
 							<i class="fa fa-{{icon}}"></i>
 						</div>
@@ -83,7 +81,7 @@
 				<div class="wedge"></div>
 				<h3>{{cta_text}}</h3>
 				<div class="wedge-3x"></div>
-				<a class="btn" href="mailto:gottwik@gmail.com">Contact me</a>
+				<a class="btn" href="mailto:gottwik@gmail.com">{{contact_me}}</a>
 			</div>
 		</div>
 
