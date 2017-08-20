@@ -61,7 +61,7 @@
 			$icon_type: 'fa',
 			icon: 'telegram',
 			text: 'Пишите напрямую в телеграм',
-			link: 'https://www.linkedin.com/'
+			link: 'https://t.me/mshkn'
 		},
 		{
 			$icon_type: 'fa',
@@ -117,7 +117,7 @@
 			$icon_type: 'fa',
 			icon: 'telegram',
 			text: 'Write me directly in Telegram',
-			link: 'https://www.linkedin.com/'
+			link: 'https://t.me/mshkn'
 		},
 		{
 			$icon_type: 'fa',
