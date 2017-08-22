@@ -1,16 +1,16 @@
 // Core variables and mixins
-@import '../../vendor/bootstrap/scss/variables';
+@import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/variables';
 
 // Reset and dependencies
-@import '../../vendor/bootstrap/scss/normalize';
-@import '../../vendor/bootstrap/scss/mixins';
+@import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/normalize';
+@import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/mixins';
 
 // Core CSS
 // @import '../../vendor/bootstrap/scss/reboot';
-@import '../../vendor/bootstrap/scss/grid';
+@import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/grid';
 
 // Utility classes
-@import '../../vendor/bootstrap/scss/utilities';
+@import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/utilities';
 
 // Images
 @import '../../vendor/bootstrap/scss/images';
