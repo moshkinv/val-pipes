@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /_src/*
 /assets/vendor
 /node_modules
@@ -7,7 +6,7 @@
 enduro_secret.json
 /juicebox
 /t
-=======
+
 # Logs
 logs
 *.log
@@ -66,5 +65,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
->>>>>>> 33834e15e16a25c166a2076454a75d3c91242778
