@@ -1,16 +1,24 @@
-// Core variables and mixins
-@import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/variables';
+// @import "bootstrap-mincer";
+// @import "bootstrap";
+//
+//
+// // Core variables and mixins
+// @import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/variables';
+//
+// // Reset and dependencies
+// @import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/normalize';
+// @import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/mixins';
+//
+// // Core CSS
+// // @import '../../vendor/bootstrap/scss/reboot';
+// @import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/grid';
+//
+// // Utility classes
+// @import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/utilities';
+//
+// // Images
+// // @import '../../vendor/bootstrap/scss/images';
 
-// Reset and dependencies
-@import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/normalize';
-@import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/mixins';
-
-// Core CSS
-// @import '../../vendor/bootstrap/scss/reboot';
-@import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/grid';
-
-// Utility classes
-@import '../../vendor/bootstrap-sass/assets/stylesheets/bootstrap/utilities';
-
-// Images
-// @import '../../vendor/bootstrap/scss/images';
+$icon-font-path: "../../vendor/bootstrap-sass/assets/fonts/bootstrap/";
+@import "../../vendor/bootstrap-sass/assets/stylesheets/bootstrap-sprockets";
+@import "../../vendor/bootstrap-sass/assets/stylesheets/bootstrap";
