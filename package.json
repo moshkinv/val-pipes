@@ -2,6 +2,9 @@
 	"name": "enduro_mirror",
 	"version": "1.0.0",
 	"description": "Personal portfolio theme for enduro.js",
+	"engines": {
+    "node": "7.0.0"
+  },
 	"main": "assets/vendor/enduro/index.js",
 	"scripts": {
 		"postinstall": "./node_modules/bower/bin/bower install",
